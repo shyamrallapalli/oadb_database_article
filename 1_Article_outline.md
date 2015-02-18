@@ -1,53 +1,64 @@
-## Article_outline.md
+# Article_outline.md
 
-### Introduction
+## Introduction
+
+1. Crowd sourced genome analysis
+	* Raw data publicly available
+	* Analysis metadata provided
+	* Open science data sharing
+
+2. Ash dieback and the OADB
+
+3. Frameworks for crowd sourcing
 
 
-### Materials Results
-
-Crowd sourced genome analysis:
-	Raw data publicly available
-	Analysis parameters provided in a structed meta data format
+## Results and Discussion
 
 Two major sections
 1) Github data organization and pointers for future project developers
 2) Ash die back data description
 
-	Section 1 points:
-		Describe folder structure:
-		Organism -> strain -> subfolders
 
-		assemblies
-		annotations
-		blasts
-		raw data - reads
-		read quality assesments
+### Database structure
+Section 1 points:
 
-		about
-		.README files
-		.info files
-		other metadata files
+1. Describe folder structure
+ 	* Organism -> strain -> subfolders
 
-		Benefits similar folder structure for other projects intended on github
+	* assemblies, annotations, 	blasts,
+	raw data - reads, read quality assesments
 
-		Advantages of the github
+2. Metadata and templates provided
+	* .README files
+	* .info files
+	* other metadata files
+
+
+
+ + Benefits similar folder structure for other projects intended on github
+		Specificities of Sepecies in question would have to taken in to account.
++ Advantages of the github
 		all activity is documented and
 		contributions can be acknowledged better and problem tracking could be easier, with transparent anlysis.
-		With the analysis strcture and guidance available
++ With the analysis strcture and guidance available
 		these could be tremenedouls help to setup future genome analysis of quick crowd sourcing and anlysis pipelines could setup with minimal implementation times.
 
-	Section 2 points:
-		Description of data presented in the current data base
-		Take few points from 1year report and any further ideas
 
-		Explanation of data sets:
-			genomes available
+### Description of data
+Section 2 points:
 
-			transcriptomes available
+Explanation of data sets:
 
-			annotations available
+1. genomes available
 
-		Specificities of Sepecies in question would have to taken in to account.
+2. transcriptomes available
 
-### Summary
+3. annotations available
+
+Description of data presented in the current data base
+
+Take few points from 1year report and any further ideas
+
+
+## Summary
 

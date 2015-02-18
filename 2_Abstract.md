@@ -1,6 +1,6 @@
-## Abstract.md
+# Abstract.md
 
-### OpenAshDieBack – a crowdsourcing repository for Ash tree and Chalara fungus genomics
+## OpenAshDieBack – a crowdsourcing repository for Ash tree and Chalara fungus genomics
 
 Ash Dieback is a devastating disease of Fraxinus excelsior (common ash tree) caused by the fungal pathogen Hymenoscyphus pseudoalbidus. Ash dieback has been spreading at an accelerating speed across Europe in the last 10 years and is estimated to infect more than 80 million ash trees in the UK. In an unconventional and collaborative approach, an open source repository for genomics data have been established at OpenAshDieBack (OADB); to kick-start and expand genomic analysis of the fungus and tree.
 OADB is comprised of a github repository (http://github.com/ash-dieback-crowdsource) and a blog (http://oadb.tsl.ac.uk). The github repo is structured as a directory tree with semantically organized sub-folders. Base directory contains project level information, which is hierarchically categorized in to organism to strain to data type folders. Metadata in the form of .README and .info files at each level, facilitate straightforward data submissions and data browsing. The project is hosted as a git project and new 'empty' instances for other projects can be forked instantly.

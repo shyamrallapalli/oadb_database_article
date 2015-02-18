@@ -1,4 +1,4 @@
-## Results & Discussion
+# Results & Discussion
 
 Organization of data in to folder structure and a wiki
 and users can provide a written description in addition to the data and parameters of analysis.
