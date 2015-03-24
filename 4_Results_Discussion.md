@@ -3,10 +3,10 @@
 Organization of data in to folder structure and a wiki
 and users can provide a written description in addition to the data and parameters of analysis.
 
-we have used the framework established by German E.coli outburst open scientific community.
-This github database is established based on the framewrok provided by community working on the E.coli outburst.
+We would like to setup a collobarative crowdsourcing platform towards the genomics stuyd of ash and ash diecback fungus. We have used the framework established by German E.coli outburst open scientific community.
+This github database is established based on the ideals followed by community working on the E.coli outburst.
 We have expanded the framework to make data organization poissble for host-pathogen data as well applicable to muliple organism under same project. Orgaims would be the highest order of folders.
-Each organism would host multiple strains.
+Each organism would encompass multiple strains and each straing would host multiple version of datasets, such as version of genome assemblies datainputs for the genome assemblies.
 For each strain we have individual folders setup that describe various data sets and analysis as explained below. Each strain has folder for seuqnece reads, assemblies, annotations, alignments, blasts and read quality metrics. Reads folder has sequence read files resulting from RNA-seq, gDNA seq and other sequencing experiments. Assemblies folder has the assembly sequence files resulting from genome and transcriptome assemblies of the sequence reads files generated through various experiments.
 
 

@@ -62,3 +62,11 @@ Take few points from 1year report and any further ideas
 
 ## Summary
 
+## Figures and tables
+1. Layout of blog and the github and folder structure
+
+2. Datasets available
+
+3. Example of browsing data
+
+
