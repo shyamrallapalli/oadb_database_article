@@ -1,4 +1,4 @@
-# Introduction.md
+# Introduction
 
 Crowd sourcing of the massively colloborative tasks has been on the rise since the success of the astronomical data analysis application such as Galaxy zoo [ref]. In addition to taking the power citizens there are many approaches of crowd sourcing the data analysis specifically approaching other experts in the same field, such as using amazon mechanical turks, solving mathematical problem  to the latest crowdsourcing analysis of variants of E.coli outburts in Germany [ref].
 

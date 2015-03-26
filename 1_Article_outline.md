@@ -55,10 +55,13 @@ Explanation of data sets:
 
 3. annotations available
 
-Description of data presented in the current data base
+User inpterface, search and download options
+
+Description of data presented in the current database and analyses on blog page
 
 Take few points from 1year report and any further ideas
 
+Utility of the data to the community of researchers and discuss salient features of the version controlled database system.
 
 ## Summary
 

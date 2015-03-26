@@ -1,4 +1,4 @@
-# Abstract.md
+# Abstract
 
 ## OpenAshDieBack – a crowdsourcing repository for Ash tree and Chalara fungus genomics
 
