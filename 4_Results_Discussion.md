@@ -51,15 +51,15 @@ However if one would like to contribute to the analysis or data, they have to si
 Membership to community can be subscribed by getting in touch with the admin at oadb@tsl.ac.uk and providing information about with your github username.
 Git version control through github graphical interphase for personal computes provides easier option to modify, update and commit the changes to the data repository.
 
-
-I could write about oadb blog, shall include about geefu or not??
+ability to download data and need to be a team member to be able to submit updates and corrections and data submission etc...
 
 
 ### General comments to add
 
-ability to download data and need to be a team member to be able to submit updates and corrections and data submission etc...
 
 ## Description of data
+OADB repository current holds genomes of both ash and dieback fungus.
+
 Describe the genomes available
 
 genome size and protein coding genes
@@ -69,6 +69,7 @@ comparing proteins sequences to public databases of pfam, PROSITE, SMART etc
 
 Gene Ontology information was extracted from the InterProScan results
 
+Mating Types of dieback fungus
 
 Diversity mRNA data
 SNP and INDEL analysis of 6 mixed material possibly more information 43 UK and European isolates of dieback fungus would be made available soon.
